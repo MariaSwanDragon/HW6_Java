@@ -68,29 +68,3 @@ public class StatsService {
 }
 
 
-//    public int MonthminSales(long[] sales) {
-//        int count = 0;
-//        long sum = 0; // начинаем с нуля
-//        for (long sale : sales) {
-//            sum += sale;
-//            if (sale <= sum/ 12) {
-//                count++;
-//            }
-//    }
-//        return count;
-//    }
-
-
-//        public int MonthmaxSales(long[] sales) {
-//            int count = 0;
-//            long sum = 0; // начинаем с нуля
-//            for (long sale : sales) {
-//                // аналог sum = sum + sale;
-//                sum = sum + sale;
-//                if (sale <= sum /12) {
-//                    count++;
-//                }
-//                return count;
-//            }
-
-
